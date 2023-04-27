@@ -1,0 +1,1 @@
+docker build -t natalko/tensorboard:v1 .
